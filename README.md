@@ -25,7 +25,7 @@
 - **OS** : Raspbian Linux(Raspberry Pi), 로보베이직(Control Board)
 - **Development Tools** : Thonny, Geany (Raspberry Pi 내부 개발 환경)
 - **Languages** : Python 3.x, 로보베이직 v2.8
-- **Libraries*** : OpenCV, Numpy, PySerial
+- **Libraries** : OpenCV, Numpy, PySerial
 
 ## 4. 주요 기능 및 코드 구조
 
